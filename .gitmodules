@@ -1,0 +1,3 @@
+[submodule "phonegetin"]
+	path = phonegetin
+	url = https://gitlab.com/pgi/android.git
