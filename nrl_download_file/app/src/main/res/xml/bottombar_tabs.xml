@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/home"
+        title="Home"
+        inactiveColor="#aba3a3"
+        activeColor="#aba3a3"/>
+
+    <tab
+        id="@+id/tab_record"
+        icon="@drawable/record"
+        title="Record"
+        inactiveColor="#aba3a3"
+        activeColor="#aba3a3"/>
+    <tab
+        id="@+id/tab_about"
+        icon="@drawable/about"
+        title="About"
+        inactiveColor="#aba3a3"
+        activeColor="#aba3a3"/>
+    <tab
+        id="@+id/tab_setting"
+        icon="@drawable/setting"
+        title="Setting"
+        inactiveColor="#aba3a3"
+        activeColor="#aba3a3"/>
+</tabs>
